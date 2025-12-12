@@ -56,7 +56,7 @@ River es un asistente virtual inteligente que opera mediante comandos de voz, di
 ## 📁 Estructura de Archivos
 
 ```bash
-river/
+Virtual_Assistant/
 ├── README.md
 ├── requirements.txt
 ├── setup.py

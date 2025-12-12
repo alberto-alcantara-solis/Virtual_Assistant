@@ -1,0 +1,2 @@
+# Dependencias del proyecto River
+# Añade aquí paquetes como langchain, openai, sounddevice, etc.
